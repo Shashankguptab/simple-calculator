@@ -29,6 +29,3 @@ A beginner-friendly calculator project built using HTML, CSS, and JavaScript.
 1. Open the project folder
 2. Run the `index.html` file in your browser
 
-## Author
-
-Shashank Gupta
